@@ -70,8 +70,8 @@ panorama_7B8866FB_1B86_CEB3_41B0_9DB1CCEEC0B5.label = 0019
 panorama_9646257A_1D81_43BD_41A8_57B8674EEE25.label = 0044
 panorama_96465DE3_1D81_42D3_417C_D5CC8808682C.label = 0045
 panorama_97D5BD14_1D81_4375_41B4_4D23B1D3B674.label = 0043
+video_48F6A7C3_1CCB_21F4_41A4_0E5A21C8771E.label = Video pengantar AJI oleh Sasmito
 video_71163F0B_1B81_5F53_41A4_5B274969832B.label = Video Pendek AJI - Lower resolution
-video_918FE2D4_1D87_46F5_41B4_A4DDC20FE70A.label = Video pengantar AJI oleh Sasmito
 
 ## Action
 
