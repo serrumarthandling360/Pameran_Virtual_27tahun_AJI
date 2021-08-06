@@ -33,6 +33,7 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left
 ## Media
 
 ### Title
+map_97DDD678_1D81_C1BE_41B6_35479ED740AB.label = Floor plans kosongan
 panorama_0006B006_1AFF_C155_41A1_03A79792FC96.label = 0023
 panorama_0035622F_1A8E_C153_4180_4E3B5CF2A484.label = 0036
 panorama_00535BF8_1A83_C6BD_41AA_83DD8208B4A7.label = 0039
